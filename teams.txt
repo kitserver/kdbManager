@@ -1,0 +1,202 @@
+000 Austria
+001 Belgium
+002 Bulgaria
+003 Croatia
+004 Czech Republic
+005 Denmark
+006 England
+007 Finland
+008 France
+009 Germany
+010 Greece
+011 Hungary
+012 Ireland
+013 Italy
+014 Latvia
+015 Netherlands
+016 Northern Ireland
+017 Norway
+018 Poland
+019 Portugal
+020 Romania
+021 Russia
+022 Scotland
+023 Serbia
+024 Slovakia
+025 Slovenia
+026 Spain
+027 Sweden
+028 Switzerland
+029 Turkey
+030 Ukraine
+031 Wales
+032 Cameroon
+033 Egypt
+034 Morocco
+035 Nigeria
+036 Senegal
+037 South Africa
+038 Tunisia
+039 Costa Rica
+040 Jamaica
+041 Mexico
+042 USA
+043 Argentina
+044 Brazil
+045 Chile
+046 Colombia
+047 Ecuador
+048 Paraguay
+049 Peru
+050 Uruguay
+051 China
+052 Iran
+053 Japan
+054 Korea
+055 Saudi Arabia
+056 Australia
+057 Classic Argentina
+058 Classic Brazil
+059 Classic England
+060 Classic France
+061 Classic Germany
+062 Classic Italy
+063 Classic Netherlands
+064 Arsenal
+065 Aston Villa
+066 Birmingham
+067 Blackburn
+068 Bolton
+069 Charlton
+070 Chelsea
+071 Crystal Palace
+072 Everton
+073 Fulham
+074 Liverpool
+075 Man City
+076 Man Utd
+077 Middlesbrough
+078 Newcastle
+079 Norwich
+080 Portsmouth
+081 Southampton
+082 Tottenham
+083 W.B.A
+084 AJ Ajaccio
+085 Monaco
+086 Auxerre
+087 Bastia
+088 Bordeaux
+089 Caen
+090 Istres
+091 Lilles
+092 Lyon
+093 Metz
+094 Nantes
+095 Nice
+096 Marseille
+097 P.S.G
+098 Lens
+099 Rennes
+100 St Etienne
+101 Socheaux
+102 Strasbourg
+103 Toulouse
+104 Arminia Bielfeld
+105 Bayer Leverkusen
+106 Bayern Munich
+107 Vfl Bochum
+108 Borussia Dortmund
+109 Monchengladbach
+110 SC Freiburg
+111 Hamburg
+112 Hannover 96
+113 Hansa Rostock
+114 Hertha Berlin
+115 Kaiserslauten
+116 Mainz
+117 Nurnberg
+118 Schalke 04
+119 Stuttgart
+120 Wolfsburg
+121 Werder Bremen
+122 AC Milan
+123 AS Roma
+124 Atalanta
+125 Bologna
+126 Brescia
+127 Cagliari
+128 Chievo
+129 Fiorentina
+130 Inter Milan
+131 Juventus
+132 Lazio
+133 Lecce
+134 Livorno
+135 Messina
+136 Palermo
+137 Parma
+138 Reggina
+139 Sampdoria
+140 Siena
+141 Udinese
+142 Ado Den Haag
+143 Ajax
+144 Az
+145 De Graafschap
+146 Den Bosch
+147 Gronigen
+148 Fc Twente
+149 Fc Utrecht
+150 Feyenoord
+151 NAC Breda
+152 NEC Nijmegan
+153 P.S.V
+154 RBC Roosendaal
+155 RKC Waalwijk
+156 Roda JC
+157 SC Heerenveen
+158 Vitesse
+159 Willem 11
+160 Albacete
+161 Osasuna
+162 Athletic Club
+163 Atletico Madrid
+164 Numancia
+165 Barcelona
+166 Getafe
+167 Levante
+168 Malaga
+169 Real Betis
+170 Real Madrid
+171 Racing Club Santander
+172 Real Sociedad
+173 Real Zaragoza
+174 Deportivo
+175 Espanyol
+176 Mallorca
+177 Sevilla
+178 Valencia
+179 Villareal
+180 Boca Juniors
+181 River Plate
+182 Brugge
+183 Anderlecht
+184 Cruzeiro
+185 Sparta Prague
+186 AEK Athens
+187 Olympiakos
+188 Panathinaikos
+189 Benfica
+190 FC Porto
+191 Sporting Lisbon
+192 Lokomotiv Moscow
+193 Spartak Moscow
+194 Glagow Celtic
+195 Rangers
+196 Partizan Belgrade
+197 Besiktas
+198 Galatasaray
+199 Dynamo Kiev
+200 PES United
+201 WE United
